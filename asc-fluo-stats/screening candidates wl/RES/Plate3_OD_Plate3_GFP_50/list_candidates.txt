@@ -1,6 +1,0 @@
-A6_G7 - rpmE : at OD 0.400000
-A7_G9 - ygiU : at OD 0.400000
-A11_B4 - dksA : at OD 0.400000
-D3_A3 - tig : at OD 0.400000
-G1_G11 - sodB : at OD 0.400000
-G2_H2 - recN : at OD 0.420000

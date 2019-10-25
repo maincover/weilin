@@ -1,0 +1,480 @@
+AZ01;A1;hisL B1
+AZ01;A2;cysK B2
+AZ01;A3;dapF B4
+AZ01;A4;ygjG B10
+AZ01;A5;ilvL C1
+AZ01;A6;ilvC C2
+AZ01;A7;aer D4
+AZ01;A8;yaaH E3
+AZ01;A9;cysP 1-E10
+AZ01;A10;dapA E11
+AZ01;A11;aroK F6
+AZ01;A12;promless
+AZ01;B1;ptsG F11
+AZ01;B2;G2 - pfkA
+AZ01;B3;H3 - rpiA
+AZ01;B4;H9 - yggG
+AZ01;B5;H11 - icd
+AZ01;B6;A6 - crp
+AZ01;B7;A9 - sdhC
+AZ01;B8;A10 - mngR
+AZ01;B9;A11 - tktA
+AZ01;B10;C1 - aroP
+AZ01;B11;C6 - pgi
+AZ01;B12;empty
+AZ01;C1;C9 - cyoA
+AZ01;C2;D11 - gadW
+AZ01;C3;F7 - sdaA
+AZ01;C4;F9 - tnaC
+AZ01;C5;G5 - somA
+AZ01;C6;G9 - yeaT
+AZ01;C7;H7 - yedW
+AZ01;C8;H8 - ygjH
+AZ01;C9;A4 - yneJ
+AZ01;C10;A11 - galE
+AZ01;C11;C8 - yrbL
+AZ01;C12;cspA ASV
+AZ01;D1;D1 - ybcW
+AZ01;D2;D2 - galU
+AZ01;D3;E2 - hcaR
+AZ01;D4;E4 - yfdZ
+AZ01;D5;E5 - sohB
+AZ01;D6;E9 - yhhQ
+AZ01;D7;F5 - ackA
+AZ01;D8;F8 - glpD
+AZ01;D9;F9 - fdhD
+AZ01;D10;G1 - yjdI
+AZ01;D11;G2 - dmsA
+AZ01;D12;G4 - ndh
+AZ01;E1;G6 - aldA
+AZ01;E2;H2 - yjfQ
+AZ01;E3;H10 - fldA
+AZ01;E4;A6 - nudE
+AZ01;E5;A7 - yhhM
+AZ01;E6;A8 - sirA
+AZ01;E7;B3 - adhE
+AZ01;E8;B5 - yfbV
+AZ01;E9;B8 - glpE
+AZ01;E10;B9 - fdoG
+AZ01;E11;B11 - dcuS
+AZ01;E12;B12 - deoR
+AZ01;F1;C4 - rfbB
+AZ01;F2;C5 - gcvT
+AZ01;F3;C7 - glmU
+AZ01;F4;C8 - fpr
+AZ01;F5;C11 - fhuF
+AZ01;F6;D1 - b2974
+AZ01;F7;D2 - hybO
+AZ01;F8;D12 - clpB
+AZ01;F9;E1 - ftsH
+AZ01;F10;E3 - mcrB
+AZ01;F11;E4 - yhgF
+AZ01;F12;F1 - yeeA
+AZ01;G1;F2 - yejG
+AZ01;G2;F5 - ygiR
+AZ01;G3;G3 - xseB
+AZ01;G4;G5 - dcp
+AZ01;G5;G9 - rph
+AZ01;G6;G10 - fadB
+AZ01;G7;H4 - rstA
+AZ01;G8;H5 - slyB
+AZ01;G9;H6 - ydhO
+AZ01;G10;H7 - osmC
+AZ01;G11;H9 - tolC
+AZ01;G12;H11 - uspA
+AZ01;H1;G11 - yebF
+AZ01;H2;G12 - b1998
+AZ01;H3;A3 - soxS
+AZ01;H4;A4 - yhcF
+AZ01;H5;A5 - speE
+AZ01;H6;A9 - gadB
+AZ01;H7;A11 - pdxY
+AZ01;H8;B3 - pyrG
+AZ01;H9;B8 - nrdG
+AZ01;H10;C8 - ucpA
+AZ01;H11;F9 - b4285
+AZ01;H12;H2 - pldB
+AZ02;A1;H4 - ybiH
+AZ02;A2;A3 - hemB
+AZ02;A3;A5 - lipA
+AZ02;A4;A6 - lipB
+AZ02;A5;A8 - intF
+AZ02;A6;A10 - menF
+AZ02;A7;B1 - menG
+AZ02;A8;B2 - cobU
+AZ02;A9;B4 - yahB
+AZ02;A10;B6 - yaiP
+AZ02;A11;B12 - mazE
+AZ02;A12;promless
+AZ02;B1;C1 - ybgD
+AZ02;B2;C6 - ybjS
+AZ02;B3;C9 - yccA
+AZ02;B4;C11 - pspB
+AZ02;B5;C12 - solA
+AZ02;B6;D4 - ybaO
+AZ02;B7;D5 - cueR
+AZ02;B8;D11 - pqiA
+AZ02;B9;D12 - ymcE
+AZ02;B10;E2 - mviN
+AZ02;B11;E11 - folA
+AZ02;B12;empty
+AZ02;C1;E12 - hemH
+AZ02;C2;F2 - acpP
+AZ02;C3;F6 - ubiE
+AZ02;C4;F7 - hemN
+AZ02;C5;F9 - pspE
+AZ02;C6;F11 - sfmA
+AZ02;C7;G2 -  iaaA
+AZ02;C8;G3 - hemA
+AZ02;C9;G4 - yeiG
+AZ02;C10;G5 - ispB
+AZ02;C11;G8 - hemL
+AZ02;C12;cspA ASV
+AZ02;D1;H2 - folE
+AZ02;D2;H6 - aaeR
+AZ02;D3;H7 - kbaZ
+AZ02;D4;H8 - yhaK
+AZ02;D5;H9 - yhdH
+AZ02;D6;H11 - yraM
+AZ02;D7;H12 - yhbO
+AZ02;D8;A2 - yhbU
+AZ02;D9;A3 - b0671
+AZ02;D10;A6 - hyaA
+AZ02;D11;A8 - valV
+AZ02;D12;A10 - asnV
+AZ02;E1;A11 - yejH
+AZ02;E2;B2 - srmB
+AZ02;E3;B3 - trxC
+AZ02;E4;B4 - metZ
+AZ02;E5;B6 - proL
+AZ02;E6;B7 - argW
+AZ02;E7;B8 - yibK
+AZ02;E8;B12 - aspU
+AZ02;E9;C2 - ileV
+AZ02;E10;C12 - yadN
+AZ02;E11;D2 - ykfA
+AZ02;E12;D4 - yadC
+AZ02;F1;D5 - serW
+AZ02;F2;D6 - hepA
+AZ02;F3;D7 - pcnB
+AZ02;F4;E3 - pnp
+AZ02;F5;E4 - rhsD
+AZ02;F6;E5 - agaR
+AZ02;F7;E6 - yhaJ
+AZ02;F8;E7 - yhdA
+AZ02;F9;E8 - yhcM
+AZ02;F10;E10 - yraR
+AZ02;F11;F4 - prpR
+AZ02;F12;F5 - serX
+AZ02;G1;F9 - nac
+AZ02;G2;G1 - yfiF
+AZ02;G3;G2 - rof
+AZ02;G4;G4 - zupT
+AZ02;G5;G5 - ecfG
+AZ02;G6;G7 - ybaY
+AZ02;G7;G10 - ecfD
+AZ02;G8;G12 - dacB
+AZ02;G9;H2 - def
+AZ02;G10;H5 - yifE
+AZ02;G11;A2 - nlpC
+AZ02;G12;B2 - slyD
+AZ02;H1;B9 - yhbC
+AZ02;H2;B11 - psd
+AZ02;H3;C6 - bfd
+AZ02;H4;C8 - yhfG
+AZ02;H5;C12 - ygjR
+AZ02;H6;D2 - lpxC
+AZ02;H7;D3 - frr
+AZ02;H8;E2 - map
+AZ02;H9;E3 - tesB
+AZ02;H10;E6 - rluD
+AZ02;H11;E8 - glgS
+AZ02;H12;E9 - greA
+AZ03;A1;E12 - rfaQ
+AZ03;A2;F5 - yjeK
+AZ03;A3;F6 - ytfB
+AZ03;A4;F8 - yjgA
+AZ03;A5;G1 - lpxP
+AZ03;A6;G7 - rpmE
+AZ03;A7;G9 - ygiU
+AZ03;A8;G11 - ligA
+AZ03;A9;H4 - pyrB
+AZ03;A10;A7 - ypjA
+AZ03;A11;B4 - dksA
+AZ03;A12;promless
+AZ03;B1;B5 - proS
+AZ03;B2;B6 - asnS
+AZ03;B3;B7 - mfd
+AZ03;B4;B8 - pheM
+AZ03;B5;C1 - lysU
+AZ03;B6;C2 - skp
+AZ03;B7;C4 - tgt
+AZ03;B8;C6 - dnaX
+AZ03;B9;C7 - rluC
+AZ03;B10;D6 - hda
+AZ03;B11;C12 - yfeY
+AZ03;B12;empty
+AZ03;C1;C9 - hupA
+AZ03;C2;D9 - iscR
+AZ03;C3;E2 - yeiE
+AZ03;C4;E5 - ppiB
+AZ03;C5;E6 - ligT
+AZ03;C6;E10 - yecM
+AZ03;C7;E11 - mrp
+AZ03;C8;E12 - yejK
+AZ03;C9;F2 - stpA
+AZ03;C10;G4 - pepN
+AZ03;C11;G7 - sbcB
+AZ03;C12;cspA ASV
+AZ03;D1;H8 - yfcE
+AZ03;D2;H11 - yfeA
+AZ03;D3;A3 - tig
+AZ03;D4;A6 - cspA
+AZ03;D5;A8 - ygaZ
+AZ03;D6;B2 - idi
+AZ03;D7;B3 - ydfA
+AZ03;D8;B4 - creB
+AZ03;D9;B5 - yeaS
+AZ03;D10;B6 - yeaZ
+AZ03;D11;B7 - yobF
+AZ03;D12;B8 - yebO
+AZ03;E1;B10 - dacA
+AZ03;E2;C5 - nlpI
+AZ03;E3;D3 - ydhH
+AZ03;E4;E2 - ftsY
+AZ03;E5;E3 - uspB
+AZ03;E6;E6 - dhaM
+AZ03;E7;E11 - yafN
+AZ03;E8;F5 - trkA
+AZ03;E9;F11 - yaiE
+AZ03;E10;G6 - ppiD
+AZ03;E11;G9 - uxuR
+AZ03;E12;G12 - yahM
+AZ03;F1;H5 - ychH
+AZ03;F2;H8 - polA
+AZ03;F3;B7 - yggD
+AZ03;F4;C1 - yafV
+AZ03;F5;C4 - yrbA
+AZ03;F6;C8 - ybeB
+AZ03;F7;D1 - ybgI
+AZ03;F8;E4 - ileX
+AZ03;F9;E12 - sbmC
+AZ03;F10;F5 - gadX
+AZ03;F11;F11 - yagB
+AZ03;F12;G9 - ftsK
+AZ03;G1;G11 - sodB
+AZ03;G2;H2 - recN
+AZ03;G3;H8 - ybgA
+AZ03;G4;H11 - ybgC
+AZ03;G5;H12 - ybhL
+AZ03;G6;A3 - dinJ
+AZ03;G7;A5 - ybiS
+AZ03;G8;A7 - minC
+AZ03;G9;B8 - yggH
+AZ03;G10;B11 - rob
+AZ03;G11;B12 - sulA
+AZ03;G12;C1 - fur
+AZ03;H1;C4 - secE
+AZ03;H2;C9 - ycbK
+AZ03;H3;D6 - ybaD
+AZ03;H4;E5 - evgA
+AZ03;H5;E11 - pmrD
+AZ03;H6;F9 - tatE
+AZ03;H7;G6 - ylaC
+AZ03;H8;H4 - ybaP
+AZ03;H9;H9 - cbpA
+AZ03;H10;H11 - marC
+AZ03;H11;A4 - yagE
+AZ03;H12;B1 - ybhQ
+AZ04;A1;C5 - ybeZ
+AZ04;A2;C6 - modF
+AZ04;A3;C8 - cydD
+AZ04;A4;E8 - ycdZ
+AZ04;A5;F9 - uspG
+AZ04;A6;G5 - yadF
+AZ04;A7;H2 - kefG
+AZ04;A8;A2 - dctA
+AZ04;A9;A9 - nmpC
+AZ04;A10;A10 - ybiU
+AZ04;A11;A11 - ybiV
+AZ04;A12;promless
+AZ04;B1;B7 - oppA
+AZ04;B2;C11 - ydcL
+AZ04;B3;D1 - ydcX
+AZ04;B4;D5 - yceP
+AZ04;B5;D7 - ycfS
+AZ04;B6;D8 - ycfD
+AZ04;B7;D9 - ycgX
+AZ04;B8;D10 - b1240
+AZ04;B9;D11 - yciA
+AZ04;B10;D12 - ybjQ
+AZ04;B11;E1 - ybjM
+AZ04;B12;empty
+AZ04;C1;E12 - ppa
+AZ04;C2;F7 - ydgR
+AZ04;C3;F12 - kil
+AZ04;C4;G2 - ycaD
+AZ04;C5;G5 - ftsQ
+AZ04;C6;G8 - sraB
+AZ04;C7;G9 - ycfR
+AZ04;C8;H4 - mdtK
+AZ04;C9;H5 - yebQ
+AZ04;C10;H6 - setA
+AZ04;C11;A1 - focA
+AZ04;C12;cspA ASV
+AZ04;D1;A11 - b1403
+AZ04;D2;B4 - uspE
+AZ04;D3;B7 - uspF
+AZ04;D4;B9 - yddE
+AZ04;D5;B10 - yddM
+AZ04;D6;B12 - ycaC
+AZ04;D7;C2 - ycaO
+AZ04;D8;D4 - ribE
+AZ04;D9;D5 - kdgR
+AZ04;D10;D6 - yabN
+AZ04;D11;D8 - ptsA
+AZ04;D12;D10 - ydcJ
+AZ04;E1;D11 - rssA
+AZ04;E2;E6 - pheP
+AZ04;E3;F7 - uhpT
+AZ04;E4;F11 - ychJ
+AZ04;E5;G6 - ppiA
+AZ04;E6;G7 - shiA
+AZ04;E7;G8 - yncG
+AZ04;E8;G10 - fadL
+AZ04;E9;G11 - nupC
+AZ04;E10;H2 - ygfU
+AZ04;E11;H3 - pitA
+AZ04;E12;H5 - corA
+AZ04;F1;H7 - codB
+AZ04;F2;H8 - mscL
+AZ04;F3;H10 - zntA
+AZ04;F4;H11 - lctP
+AZ04;F5;A6 - chbA
+AZ04;F6;A10 - treB
+AZ04;F7;C5 - smpA
+AZ04;F8;D2 - tyrP
+AZ04;F9;E3 - grxB
+AZ04;F10;E4 - pdxH
+AZ04;F11;E5 - dcd
+AZ04;F12;E6 - thiM
+AZ04;G1;E12 - ychF
+AZ04;G2;G3 - ydjF
+AZ04;G3;G6 - proQ
+AZ04;G4;A4 - dusB
+AZ04;G5;A7 - gst
+AZ04;G6;C2 - osmE
+AZ04;G7;C11 - hdeD
+AZ04;G8;D10 - ompX
+AZ04;G9;D11 - yedP
+AZ04;G10;H4 - hipB
+AZ04;G11;H8 - cirA
+AZ04;G12;H12 - fadE
+AZ04;H1;
+AZ04;H2;
+AZ04;H3;
+AZ04;H4;
+AZ04;H5;
+AZ04;H6;
+AZ04;H7;
+AZ04;H8;
+AZ04;H9;
+AZ04;H10;
+AZ04;H11;
+AZ04;H12;
+AZ05;A1;A2 - hdeA
+AZ05;A2;A10 - yidH
+AZ05;A3;A11 - yajG
+AZ05;A4;B3 - mipA
+AZ05;A5;B5 - rcsC
+AZ05;A6;B6 - ypeA
+AZ05;A7;B7 - hofM
+AZ05;A8;B8 - b3505
+AZ05;A9;B9 - htrL
+AZ05;A10;C4 - rpsP
+AZ05;A11;C5 - rpsO
+AZ05;A12;promless
+AZ05;B1;C7 - rrlD
+AZ05;B2;D3 - yqaE
+AZ05;B3;D5 - ygcF
+AZ05;B4;D7 - yqeK
+AZ05;B5;D9 - yphH
+AZ05;B6;F4 - rmf
+AZ05;B7;F5 - rrnH
+AZ05;B8;F8 - rpsA
+AZ05;B9;F9 - rimL
+AZ05;B10;G2 - rrnA
+AZ05;B11;G4 - rrnB
+AZ05;B12;empty
+AZ05;C1;G12 - fabR
+AZ05;C2;H4 - rimJ
+AZ05;C3;H5 - rpsU
+AZ05;C4;H6 - rrnC
+AZ05;C5;H8 - yieG
+AZ05;C6;H9 - yihU
+AZ05;C7;H10 - yiiQ
+AZ05;C8;H11 - sthA
+AZ05;C9;H12 - rsd
+AZ05;C10;
+AZ05;C11;
+AZ05;C12;cspA ASV
+AZ05;D1;A4 - rrnD
+AZ05;D2;A8 - clpX
+AZ05;D3;B2 - flgM
+AZ05;D4;B6 - ihfB
+AZ05;D5;C4 - ompR
+AZ05;D6;C6 - uvrY
+AZ05;D7;G5 - recA
+AZ05;D8;
+AZ05;D9;
+AZ05;D10;
+AZ05;D11;
+AZ05;D12;
+AZ05;E1;
+AZ05;E2;
+AZ05;E3;
+AZ05;E4;
+AZ05;E5;
+AZ05;E6;
+AZ05;E7;
+AZ05;E8;
+AZ05;E9;
+AZ05;E10;
+AZ05;E11;
+AZ05;E12;
+AZ05;F1;
+AZ05;F2;
+AZ05;F3;
+AZ05;F4;
+AZ05;F5;
+AZ05;F6;
+AZ05;F7;
+AZ05;F8;
+AZ05;F9;
+AZ05;F10;
+AZ05;F11;
+AZ05;F12;
+AZ05;G1;
+AZ05;G2;
+AZ05;G3;
+AZ05;G4;
+AZ05;G5;
+AZ05;G6;
+AZ05;G7;
+AZ05;G8;
+AZ05;G9;
+AZ05;G10;
+AZ05;G11;
+AZ05;G12;
+AZ05;H1;
+AZ05;H2;
+AZ05;H3;
+AZ05;H4;
+AZ05;H5;
+AZ05;H6;
+AZ05;H7;
+AZ05;H8;
+AZ05;H9;
+AZ05;H10;
+AZ05;H11;
+AZ05;H12;

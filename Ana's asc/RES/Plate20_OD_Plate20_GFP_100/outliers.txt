@@ -1,0 +1,2 @@
+/Users/xsong/Desktop/target/weilin/Ana's asc/rep1/asc/Plate20/Plate20_OD_Plate20_GFP_100.csv : 2,7 is an outlier
+/Users/xsong/Desktop/target/weilin/Ana's asc/rep1/asc/Plate20/Plate20_OD_Plate20_GFP_100.csv : 2,22 is an outlier
