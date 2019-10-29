@@ -1,0 +1,2 @@
+/home/xsong/Desktop/gitProjects/weilin/Ana's asc/rep1/asc/Plate19/Plate19_OD_Plate19_GFP_100.csv : 2,23 is an outlier
+/home/xsong/Desktop/gitProjects/weilin/Ana's asc/rep3/asc/Plate19/Plate19_OD_Plate19_GFP_100.csv : 2,35 is an outlier

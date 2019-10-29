@@ -1,0 +1,9 @@
+/home/xsong/Desktop/gitProjects/weilin/Ana's asc/rep1/asc/Plate32/Plate32_OD_Plate32_GFP_100.csv : 2,10 is an outlier
+/home/xsong/Desktop/gitProjects/weilin/Ana's asc/rep3/asc/Plate32/Plate32_OD_Plate32_GFP_100.csv : 2,13 is an outlier
+/home/xsong/Desktop/gitProjects/weilin/Ana's asc/rep1/asc/Plate32/Plate32_OD_Plate32_GFP_100.csv : 2,33 is an outlier
+/home/xsong/Desktop/gitProjects/weilin/Ana's asc/rep1/asc/Plate32/Plate32_OD_Plate32_GFP_100.csv : 2,35 is an outlier
+/home/xsong/Desktop/gitProjects/weilin/Ana's asc/rep2/asc/Plate32/Plate32_OD_Plate32_GFP_100.csv : 2,44 is an outlier
+/home/xsong/Desktop/gitProjects/weilin/Ana's asc/rep1/asc/Plate32/Plate32_OD_Plate32_GFP_100.csv : 2,52 is an outlier
+/home/xsong/Desktop/gitProjects/weilin/Ana's asc/rep1/asc/Plate32/Plate32_OD_Plate32_GFP_100.csv : 2,64 is an outlier
+/home/xsong/Desktop/gitProjects/weilin/Ana's asc/rep3/asc/Plate32/Plate32_OD_Plate32_GFP_100.csv : 2,80 is an outlier
+/home/xsong/Desktop/gitProjects/weilin/Ana's asc/rep1/asc/Plate32/Plate32_OD_Plate32_GFP_100.csv : 2,95 is an outlier
