@@ -1,8 +1,0 @@
-/home/xsong/Desktop/gitProjects/weilin/Ana's asc/rep3/asc/Plate23/Plate23_OD_Plate23_GFP_100.csv : 2,6 is an outlier
-/home/xsong/Desktop/gitProjects/weilin/Ana's asc/rep2/asc/Plate23/Plate23_OD_Plate23_GFP_100.csv : 2,8 is an outlier
-/home/xsong/Desktop/gitProjects/weilin/Ana's asc/rep3/asc/Plate23/Plate23_OD_Plate23_GFP_100.csv : 2,18 is an outlier
-/home/xsong/Desktop/gitProjects/weilin/Ana's asc/rep1/asc/Plate23/Plate23_OD_Plate23_GFP_100.csv : 2,45 is an outlier
-/home/xsong/Desktop/gitProjects/weilin/Ana's asc/rep2/asc/Plate23/Plate23_OD_Plate23_GFP_100.csv : 2,53 is an outlier
-/home/xsong/Desktop/gitProjects/weilin/Ana's asc/rep2/asc/Plate23/Plate23_OD_Plate23_GFP_100.csv : 2,54 is an outlier
-/home/xsong/Desktop/gitProjects/weilin/Ana's asc/rep3/asc/Plate23/Plate23_OD_Plate23_GFP_100.csv : 2,58 is an outlier
-/home/xsong/Desktop/gitProjects/weilin/Ana's asc/rep2/asc/Plate23/Plate23_OD_Plate23_GFP_100.csv : 2,59 is an outlier
